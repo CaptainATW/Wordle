@@ -4,7 +4,7 @@
     <img alt="Wordle" height="250px" src="Wordle.png">
   </picture>
 </p>
-<h1 align="center">Wordle Icon by CaptainATW</h1>
+<h1 align="center">Wordle Clone</h1>
 # Wordle
-Clone of Worlde created in Java using JFrame. Does not require internet connectivity to play. 
+Worlde created in Java using JFrame. Does not require internet connectivity to play. 
 
