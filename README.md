@@ -16,4 +16,14 @@ Created in about 5 hours.
 
 </div>
 
+# Release Information
+Currently, there isn't any releases or executables you can download. In the future, they may be added.
 
+If you wish to play this wordle, follow these steps:
+
+**MAKE SURE YOU HAVE JAVA INSTALLED**
+```
+1. Install the source code
+2. Install the font
+3. Run the Wordle.java file
+```
