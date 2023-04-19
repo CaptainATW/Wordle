@@ -4,9 +4,9 @@
     <img alt="Wordle" height="250px" src="Wordle.png">
   </picture>
 </p>
-<h1 align="center">Wordle Clone</h1>
+<h1 align="center" style="font-size: 400px;">Wordle in Java</h1>
 
-Worlde created in Java using JFrame, this project is extremely limited but is a simple and fun game.
+Worlde clone created in Java using JFrame, this project is extremely limited but is a simple and fun game.
 
 Created in about 5 hours.
 
@@ -15,4 +15,5 @@ Created in about 5 hours.
   <img src="image (6).png" style="margin-right:20px;width:40%;">
 
 </div>
+
 
